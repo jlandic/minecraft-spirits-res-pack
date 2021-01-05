@@ -8,25 +8,25 @@
             "predicate": {
                 "custom_model_data": 1409000
             },
-            "model": "item/grapevine_0"
+            "model": "spirits:item/grapevine_0"
         },
         {
             "predicate": {
                 "custom_model_data": 1409001
             },
-            "model": "item/grapevine_1"
+            "model": "spirits:item/grapevine_1"
         },
         {
             "predicate": {
                 "custom_model_data": 1409002
             },
-            "model": "item/grapevine_2"
+            "model": "spirits:item/grapevine_2"
         },
         {
             "predicate": {
                 "custom_model_data": 1409003
             },
-            "model": "item/grapevine_ripe"
+            "model": "spirits:item/grapevine_ripe"
         }
     ]
 }

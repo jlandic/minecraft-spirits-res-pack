@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "spirits:item/container/wine_glass_overlay",
+        "layer1": "spirits:item/container/wine_glass"
+    }
+}

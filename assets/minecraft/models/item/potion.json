@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/potion_overlay",
+        "layer1": "item/potion"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 1409006}, "model": "spirits:item/container/jar"},
+        { "predicate": {"custom_model_data": 1409007}, "model": "spirits:item/container/mug"},
+        { "predicate": {"custom_model_data": 1409008}, "model": "spirits:item/container/wine_glass"}
+    ]
+}

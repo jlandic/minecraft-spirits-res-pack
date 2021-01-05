@@ -1,8 +1,8 @@
 {
 	"textures": {
-		"0": "item/grapevine/stick",
-		"1": "item/grapevine/vine_leaf_dark",
-		"particle": "item/grapevine/stick"
+		"0": "spirits:item/grapevine/stick",
+		"1": "spirits:item/grapevine/vine_leaf_dark",
+		"particle": "spirits:item/grapevine/stick"
 	},
 	"elements": [
 		{

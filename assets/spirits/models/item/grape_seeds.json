@@ -1,8 +1,8 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"0": "item/grape_seeds/seed",
-		"particle": "item/grape_seeds/seed"
+		"0": "spirits:item/grape_seeds/seed",
+		"particle": "spirits:item/grape_seeds/seed"
 	},
 	"elements": [
 		{

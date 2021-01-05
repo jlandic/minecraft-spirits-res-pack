@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "item/grapes/grapes",
-		"particle": "item/grapes/grapes"
+		"0": "spirits:item/grapes/grapes",
+		"particle": "spirits:item/grapes/grapes"
 	},
 	"elements": [
 		{

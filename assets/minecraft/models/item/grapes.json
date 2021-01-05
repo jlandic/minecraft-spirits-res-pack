@@ -1,0 +1,51 @@
+{
+	"textures": {
+		"0": "item/grapes/grapes",
+		"particle": "item/grapes/grapes"
+	},
+	"elements": [
+		{
+			"name": "Grapes",
+			"from": [0, 0, 8],
+			"to": [16, 16, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -89, -14],
+			"translation": [1.25, 5.5, 1.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -89, -14],
+			"translation": [1.25, 5.5, 1.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -89, -14],
+			"translation": [1.25, 5.5, 1.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -89, -14],
+			"translation": [1.25, 5.5, 1.5]
+		},
+		"ground": {
+			"translation": [0, 1.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"translation": [0, -15, 0],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "Grapes",
+			"origin": [8, 8, 8],
+			"children": [0]
+		}
+	]
+}

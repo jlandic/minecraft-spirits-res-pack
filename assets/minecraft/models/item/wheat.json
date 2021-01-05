@@ -1,0 +1,32 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/wheat"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1409000
+            },
+            "model": "item/grapevine_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1409001
+            },
+            "model": "item/grapevine_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1409002
+            },
+            "model": "item/grapevine_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1409003
+            },
+            "model": "item/grapevine_ripe"
+        }
+    ]
+}
